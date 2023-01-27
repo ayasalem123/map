@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.17.1",
+    "google-map-react": "^2.2.0",
+    "google-maps-react": "^2.0.6"
+  },
+  "devDependencies": {
+    "@iconify/icons-mdi": "^1.2.39",
+    "@iconify/react": "^4.0.1"
+  }
+}
